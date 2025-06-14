@@ -9,4 +9,4 @@ Je tvořena 3 částmi:
 Aplikace využívá API od MockAPI, CSS knihovnu Tailwind a ikonky z knihovny lucide-react.
 
 Aplikace je nasazena na Vercel.
-    Odkaz: 
+    Odkaz: https://pixacom.vercel.app/
