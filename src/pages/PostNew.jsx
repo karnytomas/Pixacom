@@ -2,7 +2,7 @@ import { useState } from "react";
 import PostForm from "../components/PostForm";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import Loader from "../components/Loader"; // tvoje univerzální loader komponenta
+import Loader from "../components/Loader";
 import BackArrow from "../components/BackArrow";
 import SuccessMessage from "../components/SuccessMessage";
 
